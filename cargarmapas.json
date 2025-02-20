@@ -1,0 +1,6320 @@
+[
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "BARRANQUILLA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "PARTIDAS CIENAGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "ARACATACA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "BOSCONIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "CUATRO VIENTOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "CURUMANI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "PAILITAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "AGUACHICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "SAN ALBERTO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "LA LIZAMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "CAMPO 23",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "PUERTO ARAUJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "PUERTO BOYACA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOYACA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "EL PURNIO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "HONDA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 15,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "GUADUAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 16,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "ALTO DEL TRIGO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 17,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "VILLETA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 18,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "ALBAN",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 19,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BOGOTA",
+   "TRAMOS VIALES": "VIRGEN DE BOJACA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 20,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BUCARAMANGA",
+   "TRAMOS VIALES": "BARRANQUILLA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BUCARAMANGA",
+   "TRAMOS VIALES": "CIENAGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BUCARAMANGA",
+   "TRAMOS VIALES": "FUNDACION",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BUCARAMANGA",
+   "TRAMOS VIALES": "BOSCONIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BUCARAMANGA",
+   "TRAMOS VIALES": "CURUMANI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BUCARAMANGA",
+   "TRAMOS VIALES": "AGUACHICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BUCARAMANGA",
+   "TRAMOS VIALES": "SAN ALBERTO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BUCARAMANGA",
+   "TRAMOS VIALES": "EL PLAYON",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - BUCARAMANGA",
+   "TRAMOS VIALES": "BUCARAMANGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - CUCUTA",
+   "TRAMOS VIALES": "BARRANQUILLA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - CUCUTA",
+   "TRAMOS VIALES": "RIO FRIO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - CUCUTA",
+   "TRAMOS VIALES": "FUNDACION",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - CUCUTA",
+   "TRAMOS VIALES": "BOSCONIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - CUCUTA",
+   "TRAMOS VIALES": "CURUMANI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - CUCUTA",
+   "TRAMOS VIALES": "PAILITAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - CUCUTA",
+   "TRAMOS VIALES": "AGUACHICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - CUCUTA",
+   "TRAMOS VIALES": "OCAÑA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "NORTE DE SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - CUCUTA",
+   "TRAMOS VIALES": "ABREGO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "NORTE DE SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - CUCUTA",
+   "TRAMOS VIALES": "SARDINATA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "NORTE DE SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - CUCUTA",
+   "TRAMOS VIALES": "CUCUTA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "NORTE DE SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - MONTERIA",
+   "TRAMOS VIALES": "BARRANQUILLA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - MONTERIA",
+   "TRAMOS VIALES": "PONEDERA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - MONTERIA",
+   "TRAMOS VIALES": "CAMPO DE LA CRUZ",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - MONTERIA",
+   "TRAMOS VIALES": "SAN JUAN DE NEPOMUCENO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - MONTERIA",
+   "TRAMOS VIALES": "EL CARMEN DE BOLIVAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - MONTERIA",
+   "TRAMOS VIALES": "SINCELEJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SUCRE",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - MONTERIA",
+   "TRAMOS VIALES": "SAMPUES",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - MONTERIA",
+   "TRAMOS VIALES": "CERETE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - MONTERIA",
+   "TRAMOS VIALES": "MONTERIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - RIOHACHA",
+   "TRAMOS VIALES": "BARRANQUILLA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - RIOHACHA",
+   "TRAMOS VIALES": "PARTIDAS CIENAGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - RIOHACHA",
+   "TRAMOS VIALES": "SANTA MARTA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - RIOHACHA",
+   "TRAMOS VIALES": "MINGUEO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "GUAJIRA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - RIOHACHA",
+   "TRAMOS VIALES": "RIOHACHA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "GUAJIRA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - SANTA MARTA",
+   "TRAMOS VIALES": "BARRANQUILLA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - SANTA MARTA",
+   "TRAMOS VIALES": "PARTIDAS CIENAGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - SANTA MARTA",
+   "TRAMOS VIALES": "SANTA MARTA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - VALLEDUPAR",
+   "TRAMOS VIALES": "BARRANQUILLA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - VALLEDUPAR",
+   "TRAMOS VIALES": "CIENAGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - VALLEDUPAR",
+   "TRAMOS VIALES": "FUNDACION",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - VALLEDUPAR",
+   "TRAMOS VIALES": "BOSCONIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - VALLEDUPAR",
+   "TRAMOS VIALES": "MARIA ANGOLA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BARRANQUILLA - VALLEDUPAR",
+   "TRAMOS VIALES": "VALLEDUPAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "VIRGEN DE BOJACA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "ALBAN",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "VILLETA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "ALTO DEL TRIGO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "GUADUAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "HONDA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "EL PURNIO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "PUERTO BOYACA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOYACA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "PUERTO ARAUJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "CAMPO 23",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "LA LIZAMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "SAN ALBERTO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "AGUACHICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "PAILITAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "CURUMANI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 15,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "CUATRO VIENTOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 16,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "BOSCONIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 17,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "ARACATACA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 18,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "PARTIDAS CIENAGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 19,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BARRANQUILLA",
+   "TRAMOS VIALES": "BARRANQUILLA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 20,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BUCARAMANGA",
+   "TRAMOS VIALES": "BOGOTÁ",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BUCARAMANGA",
+   "TRAMOS VIALES": "ZIPAQUIRA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BUCARAMANGA",
+   "TRAMOS VIALES": "CHIQUINQUIRA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOYACA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BUCARAMANGA",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BUCARAMANGA",
+   "TRAMOS VIALES": "SOCORRO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - BUCARAMANGA",
+   "TRAMOS VIALES": "PIEDECUESTA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CALI",
+   "TRAMOS VIALES": "GRANADA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CALI",
+   "TRAMOS VIALES": "FUSAGASUGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CALI",
+   "TRAMOS VIALES": "MELGAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CALI",
+   "TRAMOS VIALES": "ESPINAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CALI",
+   "TRAMOS VIALES": "GUALANDAY",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CALI",
+   "TRAMOS VIALES": "LA MARTINICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CALI",
+   "TRAMOS VIALES": "CAJAMARCA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CALI",
+   "TRAMOS VIALES": "ALTO DE LA LINEA SALENTO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "QUINDIO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CALI",
+   "TRAMOS VIALES": "CALARCA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "QUINDIO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CALI",
+   "TRAMOS VIALES": "LA TEBAIDA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "QUINDIO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CALI",
+   "TRAMOS VIALES": "LA URIBE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CALI",
+   "TRAMOS VIALES": "BUGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CALI",
+   "TRAMOS VIALES": "VIJES",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CALI",
+   "TRAMOS VIALES": "YUMBO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CALI",
+   "TRAMOS VIALES": "CALI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 15,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "VIRGEN DE BOJACA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "ALBAN",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "VILLETA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "ALTO DEL TRIGO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "GUADUAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "HONDA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "EL PURNIO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "PUERTO BOYACA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOYACA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "PUERTO ARAUJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "CAMPO 23",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "LA LIZAMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "SAN ALBERTO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "AGUACHICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "PAILITAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "CURUMANI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 15,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "CUATRO VIENTOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 16,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "BOSCONIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 17,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "EL DIFICIL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 18,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "PLATO MAGDALENA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 19,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "EL CARMEN DE BOLIVAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 20,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "SAN JUAN DE NEPOMUCENO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 21,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "EL VISO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 22,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "GAMBOTE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 23,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - CARTAGENA",
+   "TRAMOS VIALES": "CARTAGENA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 24,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - IBAGUE",
+   "TRAMOS VIALES": "CUNDINAMARCA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "GRANADA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - IBAGUE",
+   "TRAMOS VIALES": "TOLIMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CHICORAL",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - IBAGUE",
+   "TRAMOS VIALES": "TOLIMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "GUALANDAY",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - IBAGUE",
+   "TRAMOS VIALES": "TOLIMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "IBAGUE",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - MEDELLIN",
+   "TRAMOS VIALES": "BOGOTÁ",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - MEDELLIN",
+   "TRAMOS VIALES": "VIRGEN DE BOJACA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - MEDELLIN",
+   "TRAMOS VIALES": "VILLETA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - MEDELLIN",
+   "TRAMOS VIALES": "ALTO DEL TRIGO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - MEDELLIN",
+   "TRAMOS VIALES": "GUADUAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - MEDELLIN",
+   "TRAMOS VIALES": "PTO SALGAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - MEDELLIN",
+   "TRAMOS VIALES": "ALTO BONITO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - MEDELLIN",
+   "TRAMOS VIALES": "DORADAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - MEDELLIN",
+   "TRAMOS VIALES": "SAN LUIS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - MEDELLIN",
+   "TRAMOS VIALES": "COCORNA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - MEDELLIN",
+   "TRAMOS VIALES": "MARINILLA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - MEDELLIN",
+   "TRAMOS VIALES": "MEDELLIN",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VALLEDUPAR",
+   "TRAMOS VIALES": "VIRGEN DE BOJACA",
+   "POBLACION": "BOGOTA",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VALLEDUPAR",
+   "TRAMOS VIALES": "ALBAN",
+   "POBLACION": "ALBAN",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VALLEDUPAR",
+   "TRAMOS VIALES": "VILLETA",
+   "POBLACION": "VILLETA",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VALLEDUPAR",
+   "TRAMOS VIALES": "ALTO DEL TRIGO",
+   "POBLACION": "ALTO DEL TRIGO",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VALLEDUPAR",
+   "TRAMOS VIALES": "GUADUAS",
+   "POBLACION": "GUADAS",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VALLEDUPAR",
+   "TRAMOS VIALES": "HONDA",
+   "POBLACION": "HONDA",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VALLEDUPAR",
+   "TRAMOS VIALES": "EL PURNIO",
+   "POBLACION": "GUARINOCITO",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VALLEDUPAR",
+   "TRAMOS VIALES": "PUERTO BOYACA",
+   "POBLACION": "PUERTO BOYACA",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VALLEDUPAR",
+   "TRAMOS VIALES": "PUERTO SERVIEZ",
+   "POBLACION": "PUERTO SERVIEZ",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VALLEDUPAR",
+   "TRAMOS VIALES": "PUERTO ARAUJO",
+   "POBLACION": "PUERTO ARAUJO",
+   "DEPARTAMENTO": "BOYACA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VALLEDUPAR",
+   "TRAMOS VIALES": "CAMPO 23",
+   "POBLACION": "BARRANCABERMEJA",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VALLEDUPAR",
+   "TRAMOS VIALES": "EL OPON",
+   "POBLACION": "EL OPON",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VALLEDUPAR",
+   "TRAMOS VIALES": "LA LIZAMA",
+   "POBLACION": "LA LIZAMA",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VALLEDUPAR",
+   "TRAMOS VIALES": "BOSCONIA",
+   "POBLACION": "BOSCONIA",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VALLEDUPAR",
+   "TRAMOS VIALES": "SAN ALBERTO",
+   "POBLACION": "SAN ALBERTO",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 15,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VALLEDUPAR",
+   "TRAMOS VIALES": "AGUACHICA",
+   "POBLACION": "AGUACHICA",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 16,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VALLEDUPAR",
+   "TRAMOS VIALES": "PAILITAS",
+   "POBLACION": "PAILITAS",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 17,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VALLEDUPAR",
+   "TRAMOS VIALES": "CURUMANI",
+   "POBLACION": "CURUMANI",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 18,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VALLEDUPAR",
+   "TRAMOS VIALES": "AGUSTIN CODAZZI",
+   "POBLACION": "AGUSTIN CODAZZI",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 19,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VILLAVICENCIO",
+   "TRAMOS VIALES": "BOGOTÁ",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VILLAVICENCIO",
+   "TRAMOS VIALES": "TUNJUELITO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VILLAVICENCIO",
+   "TRAMOS VIALES": "CAQUEZA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VILLAVICENCIO",
+   "TRAMOS VIALES": "PIPIRAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "META",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BOGOTA - VILLAVICENCIO",
+   "TRAMOS VIALES": "VILLAVICENCIO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "META",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - BOGOTA",
+   "TRAMOS VIALES": "BUENAVENTURA",
+   "POBLACION": "BUENAVENTURA",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - BOGOTA",
+   "TRAMOS VIALES": "CORDOBA",
+   "POBLACION": "BUENAVENTURA",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - BOGOTA",
+   "TRAMOS VIALES": "MEDIA CANOA",
+   "POBLACION": "MEDIA CANOA",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": null,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - BOGOTA",
+   "TRAMOS VIALES": "LA URIBE",
+   "POBLACION": "BUGA LA GRANDE",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - BOGOTA",
+   "TRAMOS VIALES": "CAJAMARCA",
+   "POBLACION": "CAJAMARCA",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": null,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - BOGOTA",
+   "TRAMOS VIALES": "LA MARTINICA",
+   "POBLACION": "IBAGUE",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - BOGOTA",
+   "TRAMOS VIALES": "MELGAR",
+   "POBLACION": "MELGAR",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - BOGOTA",
+   "TRAMOS VIALES": "GRANADA",
+   "POBLACION": "GRANADA",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": null,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - BOGOTA",
+   "TRAMOS VIALES": "BOGOTÁ",
+   "POBLACION": "BOGOTÁ",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - MEDELLIN",
+   "TRAMOS VIALES": "BUENAVENTURA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - MEDELLIN",
+   "TRAMOS VIALES": "CORDOBA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - MEDELLIN",
+   "TRAMOS VIALES": "LOBOGUERRERO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - MEDELLIN",
+   "TRAMOS VIALES": "PUENTE TIERRA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - MEDELLIN",
+   "TRAMOS VIALES": "BUGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - MEDELLIN",
+   "TRAMOS VIALES": "LA URIBE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - MEDELLIN",
+   "TRAMOS VIALES": "LA VICTORIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - MEDELLIN",
+   "TRAMOS VIALES": "CARTAGO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - MEDELLIN",
+   "TRAMOS VIALES": "CHINCHINA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - MEDELLIN",
+   "TRAMOS VIALES": "IRRA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "RISARALDA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - MEDELLIN",
+   "TRAMOS VIALES": "MARMATO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - MEDELLIN",
+   "TRAMOS VIALES": "LA PINTADA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - MEDELLIN",
+   "TRAMOS VIALES": "BOLOMBOLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - MEDELLIN",
+   "TRAMOS VIALES": "HOTEL LOS LAGOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - YUMBO",
+   "TRAMOS VIALES": "BUENAVENTURA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - YUMBO",
+   "TRAMOS VIALES": "CORDOBA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - YUMBO",
+   "TRAMOS VIALES": "MEDIA CANOA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "BUENAVENTURA - YUMBO",
+   "TRAMOS VIALES": "YUMBO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "CALI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "YOTOCO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "LA URIBE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "CERRITOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "RISARALDA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "MARMATO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "LA PINTADA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "SANTA BARBARA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "HOTEL LOS LAGOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "MEDELLIN",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "SANTA ROSA DE OSOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "YARUMAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "PUERTO VALDIVIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 15,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "PUERTO BELGICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 16,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "CAUCASIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 17,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "PLANETA RICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 18,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "SAMPUES",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 19,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "SAN JUAN DE NEPOMUCENO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 20,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "PONEDERA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 21,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BARRANQUILLA",
+   "TRAMOS VIALES": "BARRANQUILLA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 22,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BUCARAMANGA",
+   "TRAMOS VIALES": "YUMBO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BUCARAMANGA",
+   "TRAMOS VIALES": "LA URIBE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BUCARAMANGA",
+   "TRAMOS VIALES": "CAJAMARCA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BUCARAMANGA",
+   "TRAMOS VIALES": "LA MARTINICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BUCARAMANGA",
+   "TRAMOS VIALES": "ALVARADO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BUCARAMANGA",
+   "TRAMOS VIALES": "ALVARADO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BUCARAMANGA",
+   "TRAMOS VIALES": "MARIQUITA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BUCARAMANGA",
+   "TRAMOS VIALES": "HONDA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BUCARAMANGA",
+   "TRAMOS VIALES": "PTO SALGAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BUCARAMANGA",
+   "TRAMOS VIALES": "PUERTO BOYACA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOYACA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BUCARAMANGA",
+   "TRAMOS VIALES": "PUERTO ARAUJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BUCARAMANGA",
+   "TRAMOS VIALES": "CAMPO 23",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BUCARAMANGA",
+   "TRAMOS VIALES": "LA LIZAMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - BUCARAMANGA",
+   "TRAMOS VIALES": "BUCARAMANGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 15,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "CALI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "EL ARBOLITO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "BUGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "LA URIBE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "LA VICTORIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "CARTAGO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BUENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "MARMATO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "LA PINTADA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "BOLOMBOLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "SANTA ROSA DE OSOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "YARUMAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "PUERTO VALDIVIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "TARAZA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 15,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "CAUCASIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 16,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "PLANETA RICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 17,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "SAMPUES",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 18,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "SINCELEJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SUCRE",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 19,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "EL CARMEN DE BOLIVAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 20,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "SAN JUAN DE NEPOMUCENO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 21,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "EL VISO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 22,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "GAMBOTE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 23,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CALI - CARTAGENA",
+   "TRAMOS VIALES": "CARTAGENA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 24,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - BARRANQUILLA",
+   "TRAMOS VIALES": "CARTAGENA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - BARRANQUILLA",
+   "TRAMOS VIALES": "LURUACO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - BARRANQUILLA",
+   "TRAMOS VIALES": "SABANALARGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - BARRANQUILLA",
+   "TRAMOS VIALES": "BARRANQUILLA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - BUCARAMANGA",
+   "TRAMOS VIALES": "CARTAGENA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - BUCARAMANGA",
+   "TRAMOS VIALES": "GAMBOTE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - BUCARAMANGA",
+   "TRAMOS VIALES": "EL VISO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - BUCARAMANGA",
+   "TRAMOS VIALES": "SAN JUAN DE NEPOMUCENO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - BUCARAMANGA",
+   "TRAMOS VIALES": "EL CARMEN DE BOLIVAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - BUCARAMANGA",
+   "TRAMOS VIALES": "PLATO MAGDALENA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - BUCARAMANGA",
+   "TRAMOS VIALES": "EL DIFICIL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - BUCARAMANGA",
+   "TRAMOS VIALES": "BOSCONIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - BUCARAMANGA",
+   "TRAMOS VIALES": "CURUMANI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - BUCARAMANGA",
+   "TRAMOS VIALES": "AGUACHICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - BUCARAMANGA",
+   "TRAMOS VIALES": "SAN ALBERTO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - BUCARAMANGA",
+   "TRAMOS VIALES": "EL PLAYON",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - BUCARAMANGA",
+   "TRAMOS VIALES": "BUCARAMANGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CERETE",
+   "TRAMOS VIALES": "CARTAGENA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CERETE",
+   "TRAMOS VIALES": "GAMBOTE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CERETE",
+   "TRAMOS VIALES": "EL VISO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CERETE",
+   "TRAMOS VIALES": "SAN JUAN DE NEPOMUCENO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CERETE",
+   "TRAMOS VIALES": "SINCELEJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SUCRE",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CERETE",
+   "TRAMOS VIALES": "SAMPUES",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CERETE",
+   "TRAMOS VIALES": "MONTERIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CERETE",
+   "TRAMOS VIALES": "CERETE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CUCUTA",
+   "TRAMOS VIALES": "CARTAGENA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CUCUTA",
+   "TRAMOS VIALES": "GAMBOTE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CUCUTA",
+   "TRAMOS VIALES": "EL VISO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CUCUTA",
+   "TRAMOS VIALES": "SAN JUAN DE NEPOMUCENO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CUCUTA",
+   "TRAMOS VIALES": "EL CARMEN DE BOLIVAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CUCUTA",
+   "TRAMOS VIALES": "PLATO MAGDALENA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CUCUTA",
+   "TRAMOS VIALES": "EL DIFICIL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CUCUTA",
+   "TRAMOS VIALES": "BOSCONIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CUCUTA",
+   "TRAMOS VIALES": "CURUMANI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CUCUTA",
+   "TRAMOS VIALES": "AGUACHICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CUCUTA",
+   "TRAMOS VIALES": "OCAÑA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "NORTE DE SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CUCUTA",
+   "TRAMOS VIALES": "ABREGO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "NORTE DE SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CUCUTA",
+   "TRAMOS VIALES": "SARDINATA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "NORTE DE SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - CUCUTA",
+   "TRAMOS VIALES": "CUCUTA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "NORTE DE SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - ENVIGADO",
+   "TRAMOS VIALES": "CARTAGENA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - ENVIGADO",
+   "TRAMOS VIALES": "GAMBOTE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - ENVIGADO",
+   "TRAMOS VIALES": "EL VISO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - ENVIGADO",
+   "TRAMOS VIALES": "SAN JUAN DE NEPOMUCENO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - ENVIGADO",
+   "TRAMOS VIALES": "EL CARMEN DE BOLIVAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - ENVIGADO",
+   "TRAMOS VIALES": "SINCELEJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SUCRE",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - ENVIGADO",
+   "TRAMOS VIALES": "SAMPUES",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - ENVIGADO",
+   "TRAMOS VIALES": "PLANETA RICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - ENVIGADO",
+   "TRAMOS VIALES": "CAUCASIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - ENVIGADO",
+   "TRAMOS VIALES": "TARAZA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - ENVIGADO",
+   "TRAMOS VIALES": "PUERTO VALDIVIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - ENVIGADO",
+   "TRAMOS VIALES": "YARUMAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - ENVIGADO",
+   "TRAMOS VIALES": "SANTA ROSA DE OSOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "CARTAGENA - ENVIGADO",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "GIRARDOTA - CAUCASIA",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "GIRARDOTA - CAUCASIA",
+   "TRAMOS VIALES": "SANTA ROSA DE OSOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "GIRARDOTA - CAUCASIA",
+   "TRAMOS VIALES": "YARUMAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "GIRARDOTA - CAUCASIA",
+   "TRAMOS VIALES": "PUERTO VALDIVIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "GIRARDOTA - CAUCASIA",
+   "TRAMOS VIALES": "TARAZA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "GIRARDOTA - CAUCASIA",
+   "TRAMOS VIALES": "CAUCASIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - BOGOTA",
+   "TRAMOS VIALES": "LA MARTINICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - BOGOTA",
+   "TRAMOS VIALES": "MELGAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - BOGOTA",
+   "TRAMOS VIALES": "GRANADA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - BOGOTA",
+   "TRAMOS VIALES": "BOGOTÁ",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - BUCARAMANGA",
+   "TRAMOS VIALES": "LA MARTINICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - BUCARAMANGA",
+   "TRAMOS VIALES": "ALVARADO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - BUCARAMANGA",
+   "TRAMOS VIALES": "ALVARADO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - BUCARAMANGA",
+   "TRAMOS VIALES": "MARIQUITA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - BUCARAMANGA",
+   "TRAMOS VIALES": "HONDA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - BUCARAMANGA",
+   "TRAMOS VIALES": "PTO SALGAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - BUCARAMANGA",
+   "TRAMOS VIALES": "PUERTO BOYACA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOYACA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - BUCARAMANGA",
+   "TRAMOS VIALES": "PUERTO ARAUJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - BUCARAMANGA",
+   "TRAMOS VIALES": "CAMPO 23",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - BUCARAMANGA",
+   "TRAMOS VIALES": "LA LIZAMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - BUCARAMANGA",
+   "TRAMOS VIALES": "BUCARAMANGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - CALI",
+   "TRAMOS VIALES": "LA MARTINICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - CALI",
+   "TRAMOS VIALES": "CAJAMARCA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - CALI",
+   "TRAMOS VIALES": "ALTO DE LA LINEA SALENTO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "QUINDIO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - CALI",
+   "TRAMOS VIALES": "CALARCA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "QUINDIO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - CALI",
+   "TRAMOS VIALES": "LA TEBAIDA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "QUINDIO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - CALI",
+   "TRAMOS VIALES": "LA URIBE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - CALI",
+   "TRAMOS VIALES": "BUGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - CALI",
+   "TRAMOS VIALES": "VIJES",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - CALI",
+   "TRAMOS VIALES": "YUMBO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - CALI",
+   "TRAMOS VIALES": "CALI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - MANIZALES",
+   "TRAMOS VIALES": "LA MARTINICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - MANIZALES",
+   "TRAMOS VIALES": "CAJAMARCA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - MANIZALES",
+   "TRAMOS VIALES": "CALARCA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "QUINDIO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - MANIZALES",
+   "TRAMOS VIALES": "PEREIRA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "RISARALDA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - MANIZALES",
+   "TRAMOS VIALES": "MANIZALES",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - MEDELLIN",
+   "TRAMOS VIALES": "LA MARTINICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - MEDELLIN",
+   "TRAMOS VIALES": "ALVARADO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - MEDELLIN",
+   "TRAMOS VIALES": "ALVARADO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - MEDELLIN",
+   "TRAMOS VIALES": "MARIQUITA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - MEDELLIN",
+   "TRAMOS VIALES": "HONDA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - MEDELLIN",
+   "TRAMOS VIALES": "PTO SALGAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - MEDELLIN",
+   "TRAMOS VIALES": "DORADAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - MEDELLIN",
+   "TRAMOS VIALES": "SAN LUIS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - MEDELLIN",
+   "TRAMOS VIALES": "LA PIÑUELA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - MEDELLIN",
+   "TRAMOS VIALES": "MARINILLA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - MEDELLIN",
+   "TRAMOS VIALES": "GUARNE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - NEIVA",
+   "TRAMOS VIALES": "LA MARTINICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - NEIVA",
+   "TRAMOS VIALES": "ESPINAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - NEIVA",
+   "TRAMOS VIALES": "NATAGAIMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "HUILA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - PEREIRA",
+   "TRAMOS VIALES": "LA MARTINICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - PEREIRA",
+   "TRAMOS VIALES": "CAJAMARCA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - PEREIRA",
+   "TRAMOS VIALES": "CALARCA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "QUINDIO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - PEREIRA",
+   "TRAMOS VIALES": "PEREIRA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "RISARALDA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - PITALITO",
+   "TRAMOS VIALES": "LA MARTINICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - PITALITO",
+   "TRAMOS VIALES": "ESPINAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - PITALITO",
+   "TRAMOS VIALES": "NATAGAIMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - PITALITO",
+   "TRAMOS VIALES": "NEIVA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "HUILA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - PITALITO",
+   "TRAMOS VIALES": "HOBO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "HUILA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - PITALITO",
+   "TRAMOS VIALES": "GIGANTE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - PITALITO",
+   "TRAMOS VIALES": "GARZON",
+   "POBLACION": "",
+   "DEPARTAMENTO": "HUILA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IBAGUE - PITALITO",
+   "TRAMOS VIALES": "ALTAMIRA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "HUILA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "PASTO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "NARIÑO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "CHACHAGUI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "NARIÑO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "REMOLINO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "NARIÑO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "EL BORDO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "ROSAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "POPAYAN",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "SANTANDER DE QUILICHAO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "BUGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "LA URIBE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "DOSQUEBRADAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "RISARALDA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "MARMATO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "LA PINTADA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "CALDAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "GIRARDOTA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "SANTA ROSA DE OSOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 15,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "YARUMAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 16,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "PUERTO VALDIVIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 17,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "TARAZA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 18,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "CAUCASIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 19,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "BUENAVISTA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 20,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "PLANETA RICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 21,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "EL VIAJANO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 22,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "SAHAGUN",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 23,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "SAMPUES",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SUCRE",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 24,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "SINCELEJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SUCRE",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 25,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "EL CARMEN DE BOLIVAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 26,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "BOLIVAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 27,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "EL VISO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 28,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "IPIALES - CARTAGENA",
+   "TRAMOS VIALES": "CARTAGENA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 29,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MANIZALES - BARRANQUILLA X LETRAS",
+   "TRAMOS VIALES": "MANIZALES",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MANIZALES - BARRANQUILLA X LETRAS",
+   "TRAMOS VIALES": "FRESNO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MANIZALES - BARRANQUILLA X LETRAS",
+   "TRAMOS VIALES": "HONDA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MANIZALES - BARRANQUILLA X LETRAS",
+   "TRAMOS VIALES": "EL PURNIO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MANIZALES - BARRANQUILLA X LETRAS",
+   "TRAMOS VIALES": "PUERTO BOYACA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOYACA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MANIZALES - BARRANQUILLA X LETRAS",
+   "TRAMOS VIALES": "PUERTO ARAUJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MANIZALES - BARRANQUILLA X LETRAS",
+   "TRAMOS VIALES": "CAMPO 23",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MANIZALES - BARRANQUILLA X LETRAS",
+   "TRAMOS VIALES": "LA LIZAMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MANIZALES - BARRANQUILLA X LETRAS",
+   "TRAMOS VIALES": "SAN ALBERTO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MANIZALES - BARRANQUILLA X LETRAS",
+   "TRAMOS VIALES": "AGUACHICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MANIZALES - BARRANQUILLA X LETRAS",
+   "TRAMOS VIALES": "PAILITAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MANIZALES - BARRANQUILLA X LETRAS",
+   "TRAMOS VIALES": "CURUMANI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MANIZALES - BARRANQUILLA X LETRAS",
+   "TRAMOS VIALES": "CUATRO VIENTOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MANIZALES - BARRANQUILLA X LETRAS",
+   "TRAMOS VIALES": "BOSCONIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MANIZALES - BARRANQUILLA X LETRAS",
+   "TRAMOS VIALES": "ARACATACA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 15,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MANIZALES - BARRANQUILLA X LETRAS",
+   "TRAMOS VIALES": "PARTIDAS CIENAGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 16,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MANIZALES - BARRANQUILLA X LETRAS",
+   "TRAMOS VIALES": "BARRANQUILLA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 17,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - ARMENIA",
+   "TRAMOS VIALES": "HOTEL LOS LAGOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - ARMENIA",
+   "TRAMOS VIALES": "BOLOMBOLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - ARMENIA",
+   "TRAMOS VIALES": "LA PINTADA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - ARMENIA",
+   "TRAMOS VIALES": "MARMATO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - ARMENIA",
+   "TRAMOS VIALES": "IRRA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "RISARALDA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - ARMENIA",
+   "TRAMOS VIALES": "CHINCHINA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - ARMENIA",
+   "TRAMOS VIALES": "PEREIRA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "RISARALDA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - ARMENIA",
+   "TRAMOS VIALES": "ARMENIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "QUINDIO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA",
+   "TRAMOS VIALES": "MEDELLIN",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA",
+   "TRAMOS VIALES": "SANTA ROSA DE OSOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA",
+   "TRAMOS VIALES": "YARUMAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA",
+   "TRAMOS VIALES": "PUERTO VALDIVIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA",
+   "TRAMOS VIALES": "TARAZA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA",
+   "TRAMOS VIALES": "CAUCASIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA",
+   "TRAMOS VIALES": "PLANETA RICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA",
+   "TRAMOS VIALES": "SAMPUES",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA",
+   "TRAMOS VIALES": "SINCELEJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SUCRE",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA",
+   "TRAMOS VIALES": "EL CARMEN DE BOLIVAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA",
+   "TRAMOS VIALES": "SAN JUAN DE NEPOMUCENO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA",
+   "TRAMOS VIALES": "CAMPO DE LA CRUZ",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA",
+   "TRAMOS VIALES": "PONEDERA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA",
+   "TRAMOS VIALES": "BARRANQUILLA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 15,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA MGM",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA MGM",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA MGM",
+   "TRAMOS VIALES": "CISNEROS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA MGM",
+   "TRAMOS VIALES": "LA FLORESTA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOYACA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA MGM",
+   "TRAMOS VIALES": "PUERTO BERRIO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA MGM",
+   "TRAMOS VIALES": "PUERTO ARAUJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA MGM",
+   "TRAMOS VIALES": "CAMPO 23",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA MGM",
+   "TRAMOS VIALES": "LA LIZAMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA MGM",
+   "TRAMOS VIALES": "SAN ALBERTO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA MGM",
+   "TRAMOS VIALES": "AGUACHICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA MGM",
+   "TRAMOS VIALES": "PAILITAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA MGM",
+   "TRAMOS VIALES": "CURUMANI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA MGM",
+   "TRAMOS VIALES": "CUATRO VIENTOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA MGM",
+   "TRAMOS VIALES": "BOSCONIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA MGM",
+   "TRAMOS VIALES": "ARACATACA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 15,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA MGM",
+   "TRAMOS VIALES": "PARTIDAS CIENAGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 16,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BARRANQUILLA MGM",
+   "TRAMOS VIALES": "BARRANQUILLA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ATLANTICO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 17,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA ALBAN",
+   "TRAMOS VIALES": "GUARNE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA ALBAN",
+   "TRAMOS VIALES": "MARINILLA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA ALBAN",
+   "TRAMOS VIALES": "LA PIÑUELA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA ALBAN",
+   "TRAMOS VIALES": "SAN LUIS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA ALBAN",
+   "TRAMOS VIALES": "DORADAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA ALBAN",
+   "TRAMOS VIALES": "PTO SALGAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA ALBAN",
+   "TRAMOS VIALES": "HONDA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA ALBAN",
+   "TRAMOS VIALES": "GUADUAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA ALBAN",
+   "TRAMOS VIALES": "ALTO DEL TRIGO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA ALBAN",
+   "TRAMOS VIALES": "VILLETA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA ALBAN",
+   "TRAMOS VIALES": "ALBAN",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA ALBAN",
+   "TRAMOS VIALES": "VIRGEN DE BOJACA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA ALBAN",
+   "TRAMOS VIALES": "BOGOTÁ",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA VEGA",
+   "TRAMOS VIALES": "GUARNE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA VEGA",
+   "TRAMOS VIALES": "MARINILLA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA VEGA",
+   "TRAMOS VIALES": "LA PIÑUELA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA VEGA",
+   "TRAMOS VIALES": "SAN LUIS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA VEGA",
+   "TRAMOS VIALES": "DORADAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA VEGA",
+   "TRAMOS VIALES": "PTO SALGAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA VEGA",
+   "TRAMOS VIALES": "HONDA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA VEGA",
+   "TRAMOS VIALES": "GUADUAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA VEGA",
+   "TRAMOS VIALES": "ALTO DEL TRIGO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA VEGA",
+   "TRAMOS VIALES": "VILLETA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA VEGA",
+   "TRAMOS VIALES": "LA VEGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA VEGA",
+   "TRAMOS VIALES": "EL ROSAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BOGOTA X LA VEGA",
+   "TRAMOS VIALES": "BOGOTÁ",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BUCARAMANGA",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BUCARAMANGA",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BUCARAMANGA",
+   "TRAMOS VIALES": "CISNEROS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BUCARAMANGA",
+   "TRAMOS VIALES": "LA FLORESTA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOYACA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BUCARAMANGA",
+   "TRAMOS VIALES": "PUERTO BERRIO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BUCARAMANGA",
+   "TRAMOS VIALES": "PUERTO ARAUJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BUCARAMANGA",
+   "TRAMOS VIALES": "CAMPO 23",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BUCARAMANGA",
+   "TRAMOS VIALES": "LA LIZAMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BUCARAMANGA",
+   "TRAMOS VIALES": "LEBRIJA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - BUCARAMANGA",
+   "TRAMOS VIALES": "BUCARAMANGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CALI",
+   "TRAMOS VIALES": "HOTEL LOS LAGOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CALI",
+   "TRAMOS VIALES": "SANTA BARBARA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CALI",
+   "TRAMOS VIALES": "LA PINTADA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CALI",
+   "TRAMOS VIALES": "MARMATO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CALI",
+   "TRAMOS VIALES": "IRRA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "RISARALDA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CALI",
+   "TRAMOS VIALES": "CHINCHINA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CALI",
+   "TRAMOS VIALES": "PEREIRA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "RISARALDA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CALI",
+   "TRAMOS VIALES": "CARTAGO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CALI",
+   "TRAMOS VIALES": "LA VICTORIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CALI",
+   "TRAMOS VIALES": "LA URIBE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CALI",
+   "TRAMOS VIALES": "BUGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CALI",
+   "TRAMOS VIALES": "VIJES",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CALI",
+   "TRAMOS VIALES": "YUMBO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CALI",
+   "TRAMOS VIALES": "CALI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CARTAGENA",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CARTAGENA",
+   "TRAMOS VIALES": "SANTA ROSA DE OSOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CARTAGENA",
+   "TRAMOS VIALES": "YARUMAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CARTAGENA",
+   "TRAMOS VIALES": "PUERTO VALDIVIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CARTAGENA",
+   "TRAMOS VIALES": "TARAZA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CARTAGENA",
+   "TRAMOS VIALES": "CAUCASIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CARTAGENA",
+   "TRAMOS VIALES": "PLANETA RICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CARTAGENA",
+   "TRAMOS VIALES": "SAMPUES",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CARTAGENA",
+   "TRAMOS VIALES": "SINCELEJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SUCRE",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CARTAGENA",
+   "TRAMOS VIALES": "EL CARMEN DE BOLIVAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CARTAGENA",
+   "TRAMOS VIALES": "SAN JUAN DE NEPOMUCENO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CARTAGENA",
+   "TRAMOS VIALES": "EL VISO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CARTAGENA",
+   "TRAMOS VIALES": "EL VISO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CARTAGENA",
+   "TRAMOS VIALES": "GAMBOTE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CARTAGENA",
+   "TRAMOS VIALES": "TOLÚ VIEJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SUCRE",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CARTAGENA",
+   "TRAMOS VIALES": "SAN ONOFRE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SUCRE",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 15,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CARTAGENA",
+   "TRAMOS VIALES": "MARIA LA BAJA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 16,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CARTAGENA",
+   "TRAMOS VIALES": "CARTAGENA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 100,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CERETE",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CERETE",
+   "TRAMOS VIALES": "SANTA ROSA DE OSOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CERETE",
+   "TRAMOS VIALES": "YARUMAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CERETE",
+   "TRAMOS VIALES": "PUERTO VALDIVIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CERETE",
+   "TRAMOS VIALES": "TARAZA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CERETE",
+   "TRAMOS VIALES": "CAUCASIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CERETE",
+   "TRAMOS VIALES": "PLANETA RICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CERETE",
+   "TRAMOS VIALES": "MONTERIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CERETE",
+   "TRAMOS VIALES": "CERETE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CUCUTA",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CUCUTA",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CUCUTA",
+   "TRAMOS VIALES": "CISNEROS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CUCUTA",
+   "TRAMOS VIALES": "LA FLORESTA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOYACA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CUCUTA",
+   "TRAMOS VIALES": "PUERTO BERRIO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CUCUTA",
+   "TRAMOS VIALES": "PUERTO ARAUJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CUCUTA",
+   "TRAMOS VIALES": "CAMPO 23",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CUCUTA",
+   "TRAMOS VIALES": "LA LIZAMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CUCUTA",
+   "TRAMOS VIALES": "LEBRIJA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CUCUTA",
+   "TRAMOS VIALES": "BUCARAMANGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CUCUTA",
+   "TRAMOS VIALES": "PAMPLONA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "NORTE DE SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - CUCUTA",
+   "TRAMOS VIALES": "CUCUTA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "NORTE DE SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - IBAGUE",
+   "TRAMOS VIALES": "GUARNE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - IBAGUE",
+   "TRAMOS VIALES": "MARINILLA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - IBAGUE",
+   "TRAMOS VIALES": "LA PIÑUELA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - IBAGUE",
+   "TRAMOS VIALES": "SAN LUIS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - IBAGUE",
+   "TRAMOS VIALES": "DORADAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - IBAGUE",
+   "TRAMOS VIALES": "PTO SALGAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CUNDINAMARCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - IBAGUE",
+   "TRAMOS VIALES": "HONDA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - IBAGUE",
+   "TRAMOS VIALES": "MARIQUITA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - IBAGUE",
+   "TRAMOS VIALES": "VENADILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - IBAGUE",
+   "TRAMOS VIALES": "ALVARADO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "TOLIMA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MAICAO",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MAICAO",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MAICAO",
+   "TRAMOS VIALES": "CISNEROS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MAICAO",
+   "TRAMOS VIALES": "LA FLORESTA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOYACA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MAICAO",
+   "TRAMOS VIALES": "PUERTO BERRIO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MAICAO",
+   "TRAMOS VIALES": "PUERTO ARAUJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MAICAO",
+   "TRAMOS VIALES": "CAMPO 23",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MAICAO",
+   "TRAMOS VIALES": "LA LIZAMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MAICAO",
+   "TRAMOS VIALES": "SAN ALBERTO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MAICAO",
+   "TRAMOS VIALES": "AGUACHICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MAICAO",
+   "TRAMOS VIALES": "PAILITAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MAICAO",
+   "TRAMOS VIALES": "CURUMANI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MAICAO",
+   "TRAMOS VIALES": "CUATRO VIENTOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MAICAO",
+   "TRAMOS VIALES": "BOSCONIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MAICAO",
+   "TRAMOS VIALES": "ARACATACA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 15,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MAICAO",
+   "TRAMOS VIALES": "PARTIDAS CIENAGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 16,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MAICAO",
+   "TRAMOS VIALES": "SANTA MARTA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 17,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MAICAO",
+   "TRAMOS VIALES": "RIOHACHA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "GUAJIRA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 18,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MAICAO",
+   "TRAMOS VIALES": "MAICAO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "GUAJIRA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 19,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MANIZALES",
+   "TRAMOS VIALES": "MEDELLIN",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MANIZALES",
+   "TRAMOS VIALES": "BOLOMBOLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MANIZALES",
+   "TRAMOS VIALES": "LA PINTADA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MANIZALES",
+   "TRAMOS VIALES": "MARMATO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MANIZALES",
+   "TRAMOS VIALES": "",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MANIZALES",
+   "TRAMOS VIALES": "MANIZALES",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MONTERIA",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MONTERIA",
+   "TRAMOS VIALES": "SANTA ROSA DE OSOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MONTERIA",
+   "TRAMOS VIALES": "YARUMAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MONTERIA",
+   "TRAMOS VIALES": "PUERTO VALDIVIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MONTERIA",
+   "TRAMOS VIALES": "TARAZA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MONTERIA",
+   "TRAMOS VIALES": "CAUCASIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MONTERIA",
+   "TRAMOS VIALES": "PLANETA RICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - MONTERIA",
+   "TRAMOS VIALES": "MONTERIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CORDOBA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - OCAÑA",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - OCAÑA",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - OCAÑA",
+   "TRAMOS VIALES": "CISNEROS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - OCAÑA",
+   "TRAMOS VIALES": "LA FLORESTA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOYACA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - OCAÑA",
+   "TRAMOS VIALES": "PUERTO BERRIO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - OCAÑA",
+   "TRAMOS VIALES": "PUERTO ARAUJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - OCAÑA",
+   "TRAMOS VIALES": "CAMPO 23",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - OCAÑA",
+   "TRAMOS VIALES": "LA LIZAMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - OCAÑA",
+   "TRAMOS VIALES": "SAN ALBERTO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - OCAÑA",
+   "TRAMOS VIALES": "AGUACHICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - OCAÑA",
+   "TRAMOS VIALES": "OCAÑA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "NORTE DE SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "HOTEL LOS LAGOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "BOLOMBOLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "LA PINTADA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "MARMATO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "IRRA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "RISARALDA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "CHINCHINA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "PEREIRA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "RISARALDA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "CARTAGO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "LA VICTORIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "LA URIBE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "BUGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "VIJES",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "YUMBO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "CALI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "SANTANDER DE QUILICHAO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 15,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "POPAYAN",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 16,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "ROSAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 17,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "EL BORDO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 18,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "REMOLINO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 19,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "CHACHAGUI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "NARIÑO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 20,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PASTO",
+   "TRAMOS VIALES": "PASTO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "NARIÑO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 21,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PEREIRA",
+   "TRAMOS VIALES": "HOTEL LOS LAGOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PEREIRA",
+   "TRAMOS VIALES": "LA PINTADA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PEREIRA",
+   "TRAMOS VIALES": "MARMATO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PEREIRA",
+   "TRAMOS VIALES": "PALESTINA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CALDAS",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - PEREIRA",
+   "TRAMOS VIALES": "PEREIRA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "RISARALDA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - QUIBDO",
+   "TRAMOS VIALES": "MEDELLIN",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - QUIBDO",
+   "TRAMOS VIALES": "AMAGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - QUIBDO",
+   "TRAMOS VIALES": "CIUDAD BOLIVAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - QUIBDO",
+   "TRAMOS VIALES": "EL SIETE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CHOCO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - QUIBDO",
+   "TRAMOS VIALES": "EL VEINTE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CHOCO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - QUIBDO",
+   "TRAMOS VIALES": "TUTUNENDO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CHOCO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - QUIBDO",
+   "TRAMOS VIALES": "QUIBDO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CHOCO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - SANTA MARTA",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - SANTA MARTA",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - SANTA MARTA",
+   "TRAMOS VIALES": "CISNEROS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - SANTA MARTA",
+   "TRAMOS VIALES": "LA FLORESTA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOYACA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - SANTA MARTA",
+   "TRAMOS VIALES": "PUERTO BERRIO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - SANTA MARTA",
+   "TRAMOS VIALES": "PUERTO ARAUJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - SANTA MARTA",
+   "TRAMOS VIALES": "CAMPO 23",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - SANTA MARTA",
+   "TRAMOS VIALES": "LA LIZAMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - SANTA MARTA",
+   "TRAMOS VIALES": "SAN ALBERTO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - SANTA MARTA",
+   "TRAMOS VIALES": "AGUACHICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - SANTA MARTA",
+   "TRAMOS VIALES": "PAILITAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - SANTA MARTA",
+   "TRAMOS VIALES": "CURUMANI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - SANTA MARTA",
+   "TRAMOS VIALES": "CUATRO VIENTOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - SANTA MARTA",
+   "TRAMOS VIALES": "BOSCONIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - SANTA MARTA",
+   "TRAMOS VIALES": "ARACATACA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 15,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - SANTA MARTA",
+   "TRAMOS VIALES": "PARTIDAS CIENAGA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 16,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - SANTA MARTA",
+   "TRAMOS VIALES": "SANTA MARTA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 17,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - VALLEDUPAR",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - VALLEDUPAR",
+   "TRAMOS VIALES": "EL HATILLO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - VALLEDUPAR",
+   "TRAMOS VIALES": "CISNEROS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - VALLEDUPAR",
+   "TRAMOS VIALES": "LA FLORESTA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOYACA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - VALLEDUPAR",
+   "TRAMOS VIALES": "PUERTO BERRIO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - VALLEDUPAR",
+   "TRAMOS VIALES": "PUERTO ARAUJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - VALLEDUPAR",
+   "TRAMOS VIALES": "CAMPO 23",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - VALLEDUPAR",
+   "TRAMOS VIALES": "LA LIZAMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - VALLEDUPAR",
+   "TRAMOS VIALES": "SAN ALBERTO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - VALLEDUPAR",
+   "TRAMOS VIALES": "AGUACHICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - VALLEDUPAR",
+   "TRAMOS VIALES": "PAILITAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - VALLEDUPAR",
+   "TRAMOS VIALES": "CURUMANI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "MEDELLIN - VALLEDUPAR",
+   "TRAMOS VIALES": "AGUSTIN CODAZZI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X DIFICIL",
+   "TRAMOS VIALES": "DORADAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X DIFICIL",
+   "TRAMOS VIALES": "PUERTO BOYACA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOYACA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X DIFICIL",
+   "TRAMOS VIALES": "PUERTO ARAUJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X DIFICIL",
+   "TRAMOS VIALES": "CAMPO 23",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X DIFICIL",
+   "TRAMOS VIALES": "LA LIZAMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X DIFICIL",
+   "TRAMOS VIALES": "SAN ALBERTO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X DIFICIL",
+   "TRAMOS VIALES": "AGUACHICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X DIFICIL",
+   "TRAMOS VIALES": "PAILITAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X DIFICIL",
+   "TRAMOS VIALES": "CURUMANI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X DIFICIL",
+   "TRAMOS VIALES": "CUATRO VIENTOS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X DIFICIL",
+   "TRAMOS VIALES": "BOSCONIA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X DIFICIL",
+   "TRAMOS VIALES": "EL DIFICIL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X DIFICIL",
+   "TRAMOS VIALES": "PLATO MAGDALENA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X DIFICIL",
+   "TRAMOS VIALES": "EL CARMEN DE BOLIVAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X DIFICIL",
+   "TRAMOS VIALES": "SAN JUAN DE NEPOMUCENO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 15,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X DIFICIL",
+   "TRAMOS VIALES": "EL VISO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 16,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X DIFICIL",
+   "TRAMOS VIALES": "GAMBOTE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 17,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X DIFICIL",
+   "TRAMOS VIALES": "CARTAGENA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 18,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X EL BANCO",
+   "TRAMOS VIALES": "DORADAL",
+   "POBLACION": "",
+   "DEPARTAMENTO": "ANTIOQUIA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X EL BANCO",
+   "TRAMOS VIALES": "PUERTO BOYACA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOYACA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X EL BANCO",
+   "TRAMOS VIALES": "PUERTO ARAUJO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X EL BANCO",
+   "TRAMOS VIALES": "CAMPO 23",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X EL BANCO",
+   "TRAMOS VIALES": "LA LIZAMA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "SANTANDER",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X EL BANCO",
+   "TRAMOS VIALES": "SAN ALBERTO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X EL BANCO",
+   "TRAMOS VIALES": "AGUACHICA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CESAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X EL BANCO",
+   "TRAMOS VIALES": "EL BANCO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X EL BANCO",
+   "TRAMOS VIALES": "CICUCO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 9,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X EL BANCO",
+   "TRAMOS VIALES": "EL CARMEN DE BOLIVAR",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 10,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X EL BANCO",
+   "TRAMOS VIALES": "SAN JUAN DE NEPOMUCENO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 11,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X EL BANCO",
+   "TRAMOS VIALES": "EL VISO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 12,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X EL BANCO",
+   "TRAMOS VIALES": "GAMBOTE",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 13,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "RIOCLARO - CARTAGENA X EL BANCO",
+   "TRAMOS VIALES": "CARTAGENA",
+   "POBLACION": "",
+   "DEPARTAMENTO": "BOLIVAR",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 14,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "YUMBO - IPIALES",
+   "TRAMOS VIALES": "CALI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "VALLE DEL CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 1,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "YUMBO - IPIALES",
+   "TRAMOS VIALES": "SANTANDER DE QUILICHAO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 2,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "YUMBO - IPIALES",
+   "TRAMOS VIALES": "POPAYAN",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 3,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "YUMBO - IPIALES",
+   "TRAMOS VIALES": "ROSAS",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 4,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "YUMBO - IPIALES",
+   "TRAMOS VIALES": "EL BORDO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "CAUCA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 5,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "YUMBO - IPIALES",
+   "TRAMOS VIALES": "REMOLINO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "MAGDALENA",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 6,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "YUMBO - IPIALES",
+   "TRAMOS VIALES": "CHACHAGUI",
+   "POBLACION": "",
+   "DEPARTAMENTO": "NARIÑO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 7,
+   "EstadoRutasTramos": "Activo"
+ },
+ {
+   "RUTAS": "YUMBO - IPIALES",
+   "TRAMOS VIALES": "PASTO",
+   "POBLACION": "",
+   "DEPARTAMENTO": "NARIÑO",
+   "PAIS": "COLOMBIA",
+   "ORDEN": 8,
+   "EstadoRutasTramos": "Activo"
+ }
+]
