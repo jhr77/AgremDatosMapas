@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mapa con Filtros Interactivos</title>
+    <title>Mapa con Cálculo de Distancia y Tiempo</title>
 </head>
 <body>
     <h2>Filtros</h2>
@@ -17,25 +17,37 @@
         <option value="">Todas</option>
     </select>
 
-    <div id="map" style="height: 500px; width: 500%; margin-top: 20px;"></div>
+    <label for="opcionRuta">Opción de Ruta:</label>
+    <select id="opcionRuta">
+        <option value="">Todas</option>
+    </select>
+
+    <label for="velocidad">Velocidad (km/h):</label>
+    <select id="velocidad">
+        <option value="40">40</option>
+        <option value="60">60</option>
+        <option value="80">80</option>
+    </select>
+
+    <h3>Resultados</h3>
+    <p id="distancia">Distancia total: 0 km</p>
+    <p id="tiempo">Tiempo estimado de viaje: 0 horas</p>
+
+    <div id="map" style="height: 500px; width: 100%; margin-top: 20px;"></div>
 
     <script>
     let map, datos = [];
 
-    // Inicializar el mapa
     function initMap() {
         map = new google.maps.Map(document.getElementById("map"), {
             center: { lat: 4.6097, lng: -74.0817 },
             zoom: 7,
         });
-
         cargarDatos();
     }
 
-    // Cargar datos desde Google Sheets y poblar filtros
     function cargarDatos() {
         const sheetURL = "https://opensheet.elk.sh/1EUNJK_ka7Dselo2d1FjI5QRyyIpUNjSOeqqa64oqC1o/DIMUBICACION";
-
         fetch(sheetURL)
             .then(response => response.json())
             .then(data => {
@@ -46,54 +58,65 @@
             .catch(error => console.error("Error al cargar los datos:", error));
     }
 
-    // Poblar filtros con datos únicos
     function poblarFiltros(data) {
         const departamentos = new Set();
         const rutas = new Set();
+        const opcionRutas = new Set();
 
         data.forEach(item => {
             if (item.DEPARTAMENTO) departamentos.add(item.DEPARTAMENTO);
             if (item.RUTAS) rutas.add(item.RUTAS);
+            if (item.OPCIONRUTA) opcionRutas.add(item.OPCIONRUTA);
         });
 
         departamentos.forEach(dep => {
             document.getElementById("departamento").innerHTML += `<option value="${dep}">${dep}</option>`;
         });
-
         rutas.forEach(ruta => {
             document.getElementById("ruta").innerHTML += `<option value="${ruta}">${ruta}</option>`;
         });
+        opcionRutas.forEach(opcion => {
+            document.getElementById("opcionRuta").innerHTML += `<option value="${opcion}">${opcion}</option>`;
+        });
 
-        // Agregar eventos a los filtros
         document.getElementById("departamento").addEventListener("change", filtrarYMostrar);
         document.getElementById("ruta").addEventListener("change", filtrarYMostrar);
+        document.getElementById("opcionRuta").addEventListener("change", filtrarYMostrar);
+        document.getElementById("velocidad").addEventListener("change", filtrarYMostrar);
     }
 
-    // Filtrar datos según selección y mostrar en el mapa
     function filtrarYMostrar() {
         const filtroDepartamentos = document.getElementById("departamento").value;
         const filtroRutas = document.getElementById("ruta").value;
+        const filtroOpcionRuta = document.getElementById("opcionRuta").value;
+        const velocidad = parseFloat(document.getElementById("velocidad").value);
 
-        // Limpiar el mapa
         map = new google.maps.Map(document.getElementById("map"), {
             center: { lat: 4.6097, lng: -74.0817 },
             zoom: 7,
         });
 
+        let puntos = [];
+
         datos.forEach(DIMUBICACION => {
             const departamento = DIMUBICACION.DEPARTAMENTO || '';
             const ruta = DIMUBICACION.RUTAS || '';
+            const opcionRuta = DIMUBICACION.OPCIONRUTA || '';
 
             if (
                 (filtroDepartamentos === '' || departamento === filtroDepartamentos) &&
-                (filtroRutas === '' || ruta === filtroRutas)
+                (filtroRutas === '' || ruta === filtroRutas) &&
+                (filtroOpcionRuta === '' || opcionRuta === filtroOpcionRuta)
             ) {
                 if (DIMUBICACION.latitud && DIMUBICACION.longitud) {
+                    const punto = {
+                        lat: parseFloat(DIMUBICACION.latitud),
+                        lng: parseFloat(DIMUBICACION.longitud)
+                    };
+                    puntos.push(punto);
+
                     new google.maps.Marker({
-                        position: { 
-                            lat: parseFloat(DIMUBICACION.latitud), 
-                            lng: parseFloat(DIMUBICACION.longitud) 
-                        },
+                        position: punto,
                         map,
                         icon: {
                             url: DIMUBICACION.icono || "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
@@ -104,10 +127,25 @@
                 }
             }
         });
+
+        calcularDistanciaYTiempo(puntos, velocidad);
+    }
+
+    function calcularDistanciaYTiempo(puntos, velocidad) {
+        if (puntos.length < 2) {
+            document.getElementById("distancia").innerText = "Distancia total: 0 km";
+            document.getElementById("tiempo").innerText = "Tiempo estimado de viaje: 0 horas";
+            return;
+        }
+
+        let distanciaTotal = (puntos.length - 1) * 50; // 50 km entre cada punto
+        let tiempoEstimado = distanciaTotal / velocidad;
+
+        document.getElementById("distancia").innerText = `Distancia total: ${distanciaTotal} km`;
+        document.getElementById("tiempo").innerText = `Tiempo estimado de viaje: ${tiempoEstimado.toFixed(2)} horas`;
     }
     </script>
 
-    <!-- Carga optimizada de Google Maps API -->
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjiXXT9ADpTsoIo1dIR-ECfLznlVnNM24&callback=initMap"></script>
 </body>
 </html>
