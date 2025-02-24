@@ -115,14 +115,38 @@
                     };
                     puntos.push(punto);
 
-                    new google.maps.Marker({
+                    // Crear marcador con InfoWindow
+                    const marcador = new google.maps.Marker({
                         position: punto,
                         map,
                         icon: {
                             url: DIMUBICACION.icono || "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
                             scaledSize: new google.maps.Size(40, 40)
-                        },
-                        title: DIMUBICACION.EstadoRutasTramos || "Sin estado definido"
+                        }
+                    });
+
+                    // Contenido del InfoWindow
+                    const infoContenido = `
+                        <div>
+                            <strong>Ruta:</strong> ${DIMUBICACION.RUTAS || 'N/A'}<br>
+                            <strong>Departamento:</strong> ${DIMUBICACION.DEPARTAMENTO || 'N/A'}<br>
+                            <strong>Población:</strong> ${DIMUBICACION.POBLACION || 'N/A'}<br>
+                            <strong>Tramo:</strong> ${DIMUBICACION.TRAMO || 'N/A'}<br>
+                            <strong>Estado:</strong> ${DIMUBICACION.EstadoRutasTramos || 'N/A'}
+                        </div>`;
+
+                    const infoWindow = new google.maps.InfoWindow({
+                        content: infoContenido
+                    });
+
+                    // Evento para mostrar el InfoWindow al pasar el mouse
+                    marcador.addListener("mouseover", () => {
+                        infoWindow.open(map, marcador);
+                    });
+
+                    // Cerrar el InfoWindow cuando el mouse salga
+                    marcador.addListener("mouseout", () => {
+                        infoWindow.close();
                     });
                 }
             }
