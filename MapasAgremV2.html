@@ -36,7 +36,7 @@
     <div id="map" style="height: 500px; width: 100%; margin-top: 20px;"></div>
 
     <script>
-    let map, datos = [];
+    let map, datosUbicacion = [], datosRiesgos = [];
 
     function initMap() {
         map = new google.maps.Map(document.getElementById("map"), {
@@ -47,15 +47,20 @@
     }
 
     function cargarDatos() {
-        const sheetURL = "https://opensheet.elk.sh/1EUNJK_ka7Dselo2d1FjI5QRyyIpUNjSOeqqa64oqC1o/DIMUBICACION";
-        fetch(sheetURL)
-            .then(response => response.json())
-            .then(data => {
-                datos = data;
-                poblarFiltros(data);
-                filtrarYMostrar();
-            })
-            .catch(error => console.error("Error al cargar los datos:", error));
+        const urlUbicacion = "https://opensheet.elk.sh/1EUNJK_ka7Dselo2d1FjI5QRyyIpUNjSOeqqa64oqC1o/DIMUBICACION";
+        const urlRiesgos = "https://opensheet.elk.sh/1EUNJK_ka7Dselo2d1FjI5QRyyIpUNjSOeqqa64oqC1o/FACTRIESGOS";
+
+        Promise.all([
+            fetch(urlUbicacion).then(res => res.json()),
+            fetch(urlRiesgos).then(res => res.json())
+        ])
+        .then(([dataUbicacion, dataRiesgos]) => {
+            datosUbicacion = dataUbicacion;
+            datosRiesgos = dataRiesgos;
+            poblarFiltros(datosUbicacion);
+            filtrarYMostrar();
+        })
+        .catch(error => console.error("Error al cargar los datos:", error));
     }
 
     function poblarFiltros(data) {
@@ -98,20 +103,22 @@
 
         let puntos = [];
 
-        datos.forEach(DIMUBICACION => {
-            const departamento = DIMUBICACION.DEPARTAMENTO || '';
-            const ruta = DIMUBICACION.RUTAS || '';
-            const opcionRuta = DIMUBICACION.OPCIONRUTA || '';
+        datosUbicacion.forEach(ubicacion => {
+            const departamento = ubicacion.DEPARTAMENTO || '';
+            const ruta = ubicacion.RUTAS || '';
+            const opcionRuta = ubicacion.OPCIONRUTA || '';
 
             if (
                 (filtroDepartamentos === '' || departamento === filtroDepartamentos) &&
                 (filtroRutas === '' || ruta === filtroRutas) &&
                 (filtroOpcionRuta === '' || opcionRuta === filtroOpcionRuta)
             ) {
-                if (DIMUBICACION.latitud && DIMUBICACION.longitud) {
+                if (ubicacion.latitud && ubicacion.longitud) {
+                    const riesgo = datosRiesgos.find(r => r.CLAVEUBICACION === ubicacion.CLAVE)?.RIESGO || "Sin riesgo";
+
                     const punto = {
-                        lat: parseFloat(DIMUBICACION.latitud),
-                        lng: parseFloat(DIMUBICACION.longitud)
+                        lat: parseFloat(ubicacion.latitud),
+                        lng: parseFloat(ubicacion.longitud)
                     };
                     puntos.push(punto);
 
@@ -120,7 +127,7 @@
                         position: punto,
                         map,
                         icon: {
-                            url: DIMUBICACION.icono || "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
+                            url: ubicacion.icono || "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
                             scaledSize: new google.maps.Size(40, 40)
                         }
                     });
@@ -128,23 +135,23 @@
                     // Contenido del InfoWindow
                     const infoContenido = `
                         <div>
-                            <strong>Ruta:</strong> ${DIMUBICACION.RUTAS || 'N/A'}<br>
-                            <strong>Departamento:</strong> ${DIMUBICACION.DEPARTAMENTO || 'N/A'}<br>
-                            <strong>Población:</strong> ${DIMUBICACION.POBLACION || 'N/A'}<br>
-                            <strong>Tramo:</strong> ${DIMUBICACION.TRAMOS || 'N/A'}<br>
-                            <strong>Estado:</strong> ${DIMUBICACION.EstadoRutasTramos || 'N/A'}
+                            <strong>Ruta:</strong> ${ubicacion.RUTAS || 'N/A'}<br>
+                            <strong>Departamento:</strong> ${ubicacion.DEPARTAMENTO || 'N/A'}<br>
+                            <strong>Población:</strong> ${ubicacion.POBLACION || 'N/A'}<br>
+                            <strong>Tramo:</strong> ${ubicacion.TRAMOS || 'N/A'}<br>
+                            <strong>Estado:</strong> ${ubicacion.EstadoRutasTramos || 'N/A'}<br>
+                            <strong>Riesgo:</strong> ${riesgo}
                         </div>`;
 
                     const infoWindow = new google.maps.InfoWindow({
                         content: infoContenido
                     });
 
-                    // Evento para mostrar el InfoWindow al pasar el mouse
+                    // Evento para mostrar InfoWindow
                     marcador.addListener("mouseover", () => {
                         infoWindow.open(map, marcador);
                     });
 
-                    // Cerrar el InfoWindow cuando el mouse salga
                     marcador.addListener("mouseout", () => {
                         infoWindow.close();
                     });
