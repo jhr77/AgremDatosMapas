@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menú de Navegación</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        .menu {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 20px;
+            padding: 20px;
+        }
+        .menu a {
+            text-decoration: none;
+            display: inline-block;
+        }
+        .menu img {
+            width: 150px;
+            height: 150px;
+            border-radius: 10px;
+            box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+            transition: transform 0.2s;
+        }
+        .menu img:hover {
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Menú de Navegación</h1>
+    <div class="menu">
+        <a href="https://lookerstudio.google.com/reporting/2209f33c-02a7-4edb-9e0f-4263b9b29228/page/PH5iE" target="_self">
+            <img src="mapas.png" alt="Mapas Rutas">
+        </a>
+        <a href="https://lookerstudio.google.com/reporting/2209f33c-02a7-4edb-9e0f-4263b9b29228/page/p_xvnoknqbpd" target="_self">
+            <img src="riesgos.png" alt="Detalle Riesgos">
+        </a>
+        <a href="https://lookerstudio.google.com/reporting/2209f33c-02a7-4edb-9e0f-4263b9b29228/page/p_n84fci95pd" target="_self">
+            <img src="parqueaderos.png" alt="Detalle Parqueaderos">
+        </a>
+        <a href="https://lookerstudio.google.com/reporting/2209f33c-02a7-4edb-9e0f-4263b9b29228/page/p_yu5vk9k6pd" target="_self">
+            <img src="contactos.png" alt="Detalle Contactos">
+        </a>
+    </div>
+</body>
+</html>
