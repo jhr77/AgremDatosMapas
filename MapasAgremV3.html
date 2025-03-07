@@ -86,7 +86,7 @@
             let tipo = "";
 
             const riesgo = datosRiesgos.find(r => r.CLAVEUBICACION === ubicacion.CLAVE);
-            const parqueadero = datosParqueaderos.find(p => p.CLAVEPARQUEDEROS === ubicacion.CLAVESPARQUEDEROS);
+            const parqueadero = datosParqueaderos.find(p => p.CLAVEPARQUEADEROS === ubicacion.CLAVEPARQUEADEROS);
 
             if (riesgo) {
                 infoContenido = `<strong>Riesgo:</strong> ${riesgo.RIESGO || 'N/A'}`;
