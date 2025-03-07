@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa con Cálculo de Distancia y Tiempo</title>
+</head>
+<body>
+    <h2>Filtros</h2>
+    <label for="departamento">Departamento:</label>
+    <select id="departamento">
+        <option value="">Todos</option>
+    </select>
+
+    <label for="ruta">Ruta:</label>
+    <select id="ruta">
+        <option value="">Todas</option>
+    </select>
+
+    <label for="opcionRuta">Opción de Ruta:</label>
+    <select id="opcionRuta">
+        <option value="">Todas</option>
+    </select>
+
+    <label for="tipoPunto">Tipo de Punto:</label>
+    <select id="tipoPunto">
+        <option value="">Todos</option>
+        <option value="Riesgo">Riesgo</option>
+        <option value="Parqueadero">Parqueadero</option>
+    </select>
+
+    <label for="velocidad">Velocidad (km/h):</label>
+    <select id="velocidad">
+        <option value="40">40</option>
+        <option value="60">60</option>
+        <option value="80">80</option>
+    </select>
+
+    <h3>Resultados</h3>
+    <p id="distancia">Distancia total: 0 km</p>
+    <p id="tiempo">Tiempo estimado de viaje: 0 horas</p>
+
+    <div id="map" style="height: 500px; width: 100%; margin-top: 20px;"></div>
+
+    <script>
+    let map, datosUbicacion = [], datosRiesgos = [], datosParqueaderos = [];
+
+    function initMap() {
+        map = new google.maps.Map(document.getElementById("map"), {
+            center: { lat: 4.6097, lng: -74.0817 },
+            zoom: 7,
+        });
+        cargarDatos();
+    }
+
+    function cargarDatos() {
+        const urlUbicacion = "https://opensheet.elk.sh/.../DIMUBICACION";
+        const urlRiesgos = "https://opensheet.elk.sh/.../FACTRIESGOS";
+        const urlParqueaderos = "https://opensheet.elk.sh/.../DIMPARQUEADEROS";
+
+        Promise.all([
+            fetch(urlUbicacion).then(res => res.json()),
+            fetch(urlRiesgos).then(res => res.json()),
+            fetch(urlParqueaderos).then(res => res.json())
+        ])
+        .then(([dataUbicacion, dataRiesgos, dataParqueaderos]) => {
+            datosUbicacion = dataUbicacion;
+            datosRiesgos = dataRiesgos;
+            datosParqueaderos = dataParqueaderos;
+            poblarFiltros(datosUbicacion);
+            filtrarYMostrar();
+        })
+        .catch(error => console.error("Error al cargar los datos:", error));
+    }
+
+    function filtrarYMostrar() {
+        const filtroTipo = document.getElementById("tipoPunto").value;
+        map = new google.maps.Map(document.getElementById("map"), {
+            center: { lat: 4.6097, lng: -74.0817 },
+            zoom: 7,
+        });
+
+        datosUbicacion.forEach(ubicacion => {
+            let infoContenido = "";
+            let icono = "";
+            let tipo = "";
+
+            const riesgo = datosRiesgos.find(r => r.CLAVEUBICACION === ubicacion.CLAVE);
+            const parqueadero = datosParqueaderos.find(p => p.CLAVEPARQUEDEROS === ubicacion.CLAVESPARQUEDEROS);
+
+            if (riesgo) {
+                infoContenido = `<strong>Riesgo:</strong> ${riesgo.RIESGO || 'N/A'}`;
+                icono = "https://maps.google.com/mapfiles/ms/icons/red-dot.png";
+                tipo = "Riesgo";
+            } else if (parqueadero) {
+                infoContenido = `<strong>Parqueadero:</strong> ${parqueadero.NOMBRE || 'N/A'}`;
+                icono = "https://maps.google.com/mapfiles/ms/icons/blue-dot.png";
+                tipo = "Parqueadero";
+            }
+
+            if (filtroTipo === "" || filtroTipo === tipo) {
+                const marcador = new google.maps.Marker({
+                    position: { lat: parseFloat(ubicacion.latitud), lng: parseFloat(ubicacion.longitud) },
+                    map,
+                    icon: { url: icono, scaledSize: new google.maps.Size(40, 40) }
+                });
+                
+                const infoWindow = new google.maps.InfoWindow({ content: `<div>${infoContenido}</div>` });
+                marcador.addListener("mouseover", () => infoWindow.open(map, marcador));
+                marcador.addListener("mouseout", () => infoWindow.close());
+            }
+        });
+    }
+    </script>
+
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=TU_API_KEY&callback=initMap"></script>
+</body>
+</html>
