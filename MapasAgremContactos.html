@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa de Contactos</title>
+</head>
+<body>
+    <h2>Filtros</h2>
+    <label for="departamento">Departamento:</label>
+    <select id="departamento">
+        <option value="">Todos</option>
+    </select>
+    <label for="ruta">Ruta:</label>
+    <select id="ruta">
+        <option value="">Todos</option>
+    </select>
+    <label for="poblacion">Poblacion:</label>
+    <select id="poblacion">
+        <option value="">Todas</option>
+    </select>
+    <label for="tipocontacto">Tipo Contacto:</label>
+    <select id="tipocontacto">
+        <option value="">Todas</option>
+    </select>
+    <h3>Resultados</h3>
+    <div id="map" style="height: 500px; width: 100%; margin-top: 20px;"></div>
+
+    <script>
+    let map, datosUbicacion = [], datosParqueaderos = [];
+
+    function initMap() {
+        map = new google.maps.Map(document.getElementById("map"), {
+            center: { lat: 4.6097, lng: -74.0817 },
+            zoom: 7,
+        });
+        cargarDatos();
+    }
+
+    function cargarDatos() {
+        const urlContactos = "https://opensheet.elk.sh/1EUNJK_ka7Dselo2d1FjI5QRyyIpUNjSOeqqa64oqC1o/DIM_CONTACTOS";
+
+        Promise.all([
+            fetch(urlContactos).then(res => res.json())
+        ])
+        .then(([dataContactos]) => {
+            datosContactos = dataContactos;        
+            poblarFiltros(datosContactos);
+            filtrarYMostrar();
+        })
+        .catch(error => console.error("Error al cargar los datos:", error));
+    }
+
+    function poblarFiltros(datosContactos) {
+        const departamentos = new Set();
+        const rutas = new Set();
+        const poblacion = new Set();
+        const tipocontacto = new Set();
+
+        datosContactos.forEach(item => { 
+            if (item.DEPARTAMENTO) departamentos.add(item.DEPARTAMENTO);
+            
+            if (item.RUTASAGRUPADAS) {
+                item.RUTASAGRUPADAS.split(",").forEach(ruta => rutas.add(ruta.trim())); 
+            }
+
+            if (item.POBLACION) poblacion.add(item.POBLACION);   
+            if (item.TIPO_CONTACTO) tipocontacto.add(item.TIPO_CONTACTO);
+        });
+
+        const rutasOrdenadas = Array.from(rutas).sort();
+        const departamentosOrdenados = Array.from(departamentos).sort();
+        const poblacionOrdenada = Array.from(poblacion).sort();
+        const tipocontactoOrdenado = Array.from(tipocontacto).sort();
+
+        departamentosOrdenados.forEach(dep => {
+            document.getElementById("departamento").innerHTML += `<option value="${dep}">${dep}</option>`;
+        });
+        rutasOrdenadas.forEach(rut => {
+            document.getElementById("ruta").innerHTML += `<option value="${rut}">${rut}</option>`;
+        });
+        poblacionOrdenada.forEach(pob => {
+            document.getElementById("poblacion").innerHTML += `<option value="${pob}">${pob}</option>`;
+        });
+        tipocontactoOrdenado.forEach(tcont => {
+            document.getElementById("tipocontacto").innerHTML += `<option value="${tcont}">${tcont}</option>`;
+        });
+
+        document.getElementById("departamento").addEventListener("change", filtrarYMostrar);
+        document.getElementById("ruta").addEventListener("change", filtrarYMostrar);
+        document.getElementById("poblacion").addEventListener("change", filtrarYMostrar);
+        document.getElementById("tipocontacto").addEventListener("change", filtrarYMostrar);
+    }
+
+
+    function filtrarYMostrar() {
+        const filtroDepartamento = document.getElementById("departamento").value;
+        const filtroRutas = document.getElementById("ruta").value;
+        const filtroPoblacion = document.getElementById("poblacion").value;
+        const filtroTipoContacto = document.getElementById("tipocontacto").value;
+
+        map = new google.maps.Map(document.getElementById("map"), {
+            center: { lat: 4.6097, lng: -74.0817 },
+            zoom: 7
+        });
+
+        datosContactos.forEach(contacto => { 
+            const departamento = contacto.DEPARTAMENTO || "Sin información";
+            const poblacion = contacto.POBLACION || "Sin información";
+            //const ruta = contacto.RUTASAGRUPADAS || "Sin información";
+            const rutas = contacto.RUTASAGRUPADAS ? contacto.RUTASAGRUPADAS.split(",").map(r => r.trim()) : [];
+            const tipocontacto = contacto.TIPO_CONTACTO || "Sin información";
+
+            if (
+                (filtroDepartamento === '' || departamento === filtroDepartamento) &&
+                (filtroPoblacion === '' || poblacion === filtroPoblacion) &&
+                (filtroRutas === '' || rutas.includes(filtroRutas)) &&
+                (filtroTipoContacto === '' || tipocontacto === filtroTipoContacto)
+            ) {
+                if (contacto.LATITUD && contacto.LONGITUD) {
+                    const punto = {
+                        lat: parseFloat(contacto.LATITUD),
+                        lng: parseFloat(contacto.LONGITUD)
+                    };
+
+                    const marcador = new google.maps.Marker({
+                        position: punto,
+                        map,
+                        icon: {
+                            url: contacto.ICONO || "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
+                            scaledSize: new google.maps.Size(40, 40)
+                        }
+                    });
+
+                    const infoContenido = `
+                        <div>
+                            <strong>Departamento:</strong> ${contacto.DEPARTAMENTO || 'N/A'}<br>
+                            <strong>Poblacion:</strong> ${contacto.POBLACION}<br>
+                            <strong>Tipo Contacto:</strong> ${contacto.TIPO_CONTACTO || 'N/A'}<br>
+                            <strong>Contacto:</strong> ${contacto.CONTACTO || 'N/A'}<br>
+                            <strong>Radio operador:</strong> ${contacto.RADIOOPERADOR || 'N/A'}<br>
+                            <strong>Email institucional:</strong> ${contacto.Correo_Institucional || 'N/A'}
+                        </div>`;
+
+                    const infoWindow = new google.maps.InfoWindow({ content: infoContenido });
+
+                    marcador.addListener("mouseover", () => {
+                        infoWindow.open(map, marcador);
+                    });
+
+                    marcador.addListener("mouseout", () => {
+                        infoWindow.close();
+                    });
+                }
+            }
+        });
+    }
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjiXXT9ADpTsoIo1dIR-ECfLznlVnNM24&callback=initMap"></script>
+</body>
+</html>
