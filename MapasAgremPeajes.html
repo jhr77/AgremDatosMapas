@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa Peajes</title>
+</head>
+<body>
+    <h2>Filtros</h2>
+    <label for="departamento">Departamento:</label>
+    <select id="departamento">
+        <option value="">Todos</option>
+    </select>
+    <label for="ruta">Ruta:</label>
+    <select id="ruta">
+        <option value="">Todos</option>
+    </select>
+    <label for="poblacion">Poblacion:</label>
+    <select id="poblacion">
+        <option value="">Todos</option>
+    </select>
+    <label for="tipocategorias">Tipo Categoria:</label>
+    <select id="tipocategorias">
+        <option value="">Todas</option>
+    </select>
+    <h3>Resultados</h3>
+    <div id="map" style="height: 500px; width: 100%; margin-top: 20px;"></div>
+
+    <script>
+    let map, datosPeajes = [];
+
+    function initMap() {
+        map = new google.maps.Map(document.getElementById("map"), {
+            center: { lat: 4.6097, lng: -74.0817 },
+            zoom: 7,
+        });
+        cargarDatos();
+    }
+
+    function cargarDatos() {
+        const urlPeajes = "https://opensheet.elk.sh/1EUNJK_ka7Dselo2d1FjI5QRyyIpUNjSOeqqa64oqC1o/DIMPEAJES";
+
+        Promise.all([
+            fetch(urlPeajes).then(res => res.json())
+        ])
+        .then(([dataPeajes]) => {
+            datosPeajes = dataPeajes;        
+            poblarFiltros(datosPeajes);
+            filtrarYMostrar();
+        })
+        .catch(error => console.error("Error al cargar los datos:", error));
+    }
+
+    function poblarFiltros(datosPeajes) {
+        const departamentos = new Set();
+        const rutas = new Set();
+        const poblacion = new Set();
+        const tipocategoria = new Set();
+
+        datosPeajes.forEach(item => { 
+            if (item.DEPARTAMENTO) departamentos.add(item.DEPARTAMENTO);
+            if (item.RUTAS) rutas.add(item.RUTAS);
+            if (item.POBLACION) poblacion.add(item.POBLACION);   
+            if (item.CATEGORIAS) {
+                item.CATEGORIAS.split(",").forEach(tipocategorias => tipocategoria.add(tipocategorias.trim())); 
+            }
+        });
+
+        const rutasOrdenadas = Array.from(rutas).sort();
+        const departamentosOrdenados = Array.from(departamentos).sort();
+        const poblacionOrdenada = Array.from(poblacion).sort();
+        const tipocategoriaOrdenado = Array.from(tipocategoria).sort();
+
+        departamentosOrdenados.forEach(dep => {
+            document.getElementById("departamento").innerHTML += `<option value="${dep}">${dep}</option>`;
+        });
+        rutasOrdenadas.forEach(rut => {
+            document.getElementById("ruta").innerHTML += `<option value="${rut}">${rut}</option>`;
+        });
+        poblacionOrdenada.forEach(pob => {
+            document.getElementById("poblacion").innerHTML += `<option value="${pob}">${pob}</option>`;
+        });
+        tipocategoriaOrdenado.forEach(tcat => {
+            document.getElementById("tipocategorias").innerHTML += `<option value="${tcat}">${tcat}</option>`;
+        });
+
+        document.getElementById("departamento").addEventListener("change", filtrarYMostrar);
+        document.getElementById("ruta").addEventListener("change", filtrarYMostrar);
+        document.getElementById("poblacion").addEventListener("change", filtrarYMostrar);
+        document.getElementById("tipocategorias").addEventListener("change", filtrarYMostrar);
+    }
+
+
+    function filtrarYMostrar() {
+        const filtroDepartamento = document.getElementById("departamento").value;
+        const filtroRutas = document.getElementById("ruta").value;
+        const filtroPoblacion = document.getElementById("poblacion").value;
+        const filtroCategoria = document.getElementById("tipocategorias").value;
+
+        map = new google.maps.Map(document.getElementById("map"), {
+            center: { lat: 4.6097, lng: -74.0817 },
+            zoom: 7
+        });
+
+        datosPeajes.forEach(peajes => { 
+            const departamento = peajes.DEPARTAMENTO || "Sin información";
+            const poblacion = peajes.POBLACION || "Sin información";
+            //const ruta = contacto.RUTASAGRUPADAS || "Sin información";
+            const rutas = peajes.RUTAS || "Sin información";
+            const tipocategoria = peajes.CATEGORIAS ? peajes.CATEGORIAS.split(",").map(r => r.trim()) : [];
+
+            if (
+                (filtroDepartamento === '' || departamento === filtroDepartamento) &&
+                (filtroRutas === '' || rutas === filtroRutas) &&
+                (filtroPoblacion === '' || poblacion === filtroPoblacion) &&
+                (filtroCategoria === '' || rutas.includes(filtroCategoria)) &&
+                (filtroCategoria === '' || tipocategoriaOrdenado === filtroCategoria)
+            ) {
+                if (peajes.Latitud && peajes.Longitud) {
+                    const punto = {
+                        lat: parseFloat(peajes.Latitud),
+                        lng: parseFloat(peajes.Longitud)
+                    };
+
+                    const marcador = new google.maps.Marker({
+                        position: punto,
+                        map,
+                        icon: {
+                            url: peajes.ICONO || "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
+                            scaledSize: new google.maps.Size(40, 40)
+                        }
+                    });
+
+                    const infoContenido = `
+                        <div>
+                            <strong>Departamento:</strong> ${peajes.DEPARTAMENTO || 'N/A'}<br>
+                            <strong>Poblacion:</strong> ${peajes.POBLACION}<br>
+                            <strong>Rutas:</strong> ${peajes.RUTAS || 'N/A'}<br>
+                            <strong>Catregorias:</strong> ${peajes.CATEGORIAS || 'N/A'}<br>
+                            <strong>Concepcion:</strong> ${peajes.CONCEPCION || 'N/A'}<br>
+                            <strong>Valor Categoria 1:</strong> ${peajes.VALORCATEGORIA1 || 'N/A'}<br>
+                            <strong>Valor Categoria 2:</strong> ${peajes.VALORCATEGORIA2 || 'N/A'}<br>
+                            <strong>Valor Categoria 3:</strong> ${peajes.VALORCATEGORIA3 || 'N/A'}<br>
+                            <strong>Valor Categoria 4:</strong> ${peajes.VALORCATEGORIA4 || 'N/A'}<br>
+                            <strong>Valor Categoria 5:</strong> ${peajes.VALORCATEGORIA5 || 'N/A'}<br>
+                            <strong>Valor Categoria 6:</strong> ${peajes.VALORCATEGORIA6 || 'N/A'}<br>
+                            <strong>Valor Categoria 7:</strong> ${peajes.VALORCATEGORIA7 || 'N/A'}<br>
+                        </div>`;
+
+                    const infoWindow = new google.maps.InfoWindow({ content: infoContenido });
+
+                    marcador.addListener("mouseover", () => {
+                        infoWindow.open(map, marcador);
+                    });
+
+                    marcador.addListener("mouseout", () => {
+                        infoWindow.close();
+                    });
+                }
+            }
+        });
+    }
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjiXXT9ADpTsoIo1dIR-ECfLznlVnNM24&callback=initMap"></script>
+</body>
+</html>
